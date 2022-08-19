@@ -1,0 +1,19 @@
+{
+  "name": "@couchmate/wordlists",
+  "version": "0.1.0",
+  "description": "Words categorized by topic.",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "contributors": [
+    {
+      "name": "Ivan Malopinsky",
+      "email": "ivan@imsky.co"
+    },
+    {
+      "name": "Matt Oliver",
+      "email": "matt@couchmate.com"
+    }
+  ]
+}
